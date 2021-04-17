@@ -1,7 +1,4 @@
 #!/bin/bash
-#apt update -y && apt upgrade -y 
-#pkg install figlet -y
-
 Menu () {
 printf "\033[0;36m╔══╗──────────────────\033[0;34m╔╦╗──────\n"
 printf "\033[0;36m╚╗╔╝╔═╗╔╦╗╔══╗╔╦╗╔╦╗──\033[0;34m║╔╝╔═╗╔╦╗\n"
