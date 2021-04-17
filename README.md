@@ -11,8 +11,8 @@ git clone https://github.com/PedroFx007/Termux-Key
 
 cd Termux-Key
 
-chmod +x Keys.sh
+chmod +x keys.sh
 
-bash Keys.sh
+bash keys.sh
 
 Now select number 1 and enjoy ;)
